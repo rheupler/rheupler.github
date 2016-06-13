@@ -3,6 +3,7 @@ layout: page
 title: About me
 tags: [about]
 date: 2016-06-12
+comments  : false
 ---
 
 <img src="../assets/img/prof_pic.png" scrolling="0" width="50px">  
