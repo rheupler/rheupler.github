@@ -15,6 +15,8 @@ comments: false
 
 <a href="https://rheupler.github.io/weather-angular/#/">Visit here</a>
 
+EDIT: This worked in local host but just realized the api is getting blocked now when I try to use the live version of it. Working on a fix for this.
+
 I've decided to get back into using Angular since it's been a little bit since I've touched it. I made with weather app with some help from the Udemy course that I enrolled in.
 
 This was built using Angular 1, and I've been trying to decide if I should stay with 1 since it's still going to be used and more popular than 2 for the immediate future. Or maybe I should just jump the ship and start using 2 since it will eventually be more popular as people switch over.
