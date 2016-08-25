@@ -15,6 +15,8 @@ comments: false
 
 <a href="https://rheupler.github.io/weather-angular/#/">Visit here</a>
 
+<a href="https://github.com/rheupler/weather-angular">Source</a>
+
 EDIT: This worked in local host but just realized the api is getting blocked now when I try to use the live version of it. Working on a fix for this.
 
 I've decided to get back into using Angular since it's been a little bit since I've touched it. I made with weather app with some help from the Udemy course that I enrolled in.
